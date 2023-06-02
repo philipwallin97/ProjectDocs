@@ -35,7 +35,7 @@ The design was made to have 2 outer layers on the bottom part but that was not e
 
 During the day you can barely see the light with my 20% brightness but that's not very surprising.
 
-<img src="./Photos/Dark.JPEG" alt= “” width="500px">
+<img src="./Photos/Darker.JPEG" alt= “” width="500px">
 
 When it's a bit darker it works as expected. Worth mentioning is that it's more diffused in real life then on pictures.
 
