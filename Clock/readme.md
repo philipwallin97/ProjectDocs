@@ -18,15 +18,15 @@ On the final print I used 3 layers and printed the front and back in Addnorths P
 
 I went through a few iteration before settling on the final design for how to mount everything together. 
 
-<img src="./Photos/First_shroud.JPEG" alt= “” width="500px">
+<img src="./Photos/FirstShroud.JPEG" alt= “” width="500px">
 
 My first plan was to print everything except the back in one part and use sloped shrouds that I could glue the LEDs into. I think this approach is the best if you have printer that you trust but I could not get this to print reliably without stringing inside the shrouds. (When I get a better 3D printer I think I will revisit this project and try a full scale version of this)
 
 I tried making a full scale version like this because I just wanted to see if this was something even worth spending more time on. I made a thinn part where I glued all the LEDs to because I thought that might have been easier (It wasn't). I then glued this part to the front and voila, I made something!
 
-<img src="./Photos/First_complete.JPEG" alt= “” width="500px">
+<img src="./Photos/FirstComplete.JPEG" alt= “” width="500px">
 
-<img src="./Photos/First_front.JPEG" alt= “” width="500px">
+<img src="./Photos/FirstFront.JPEG" alt= “” width="500px">
 
 *It looked like shit.* But it was **my** shit! 
 
