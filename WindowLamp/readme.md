@@ -10,7 +10,7 @@ I use [WLED](https://kno.wled.ge/) for all my LED projects and this is no except
 
 I saw [this](https://www.printables.com/model/162361-maker-lamp) and wanted to make something similar but with WS2812B leds instead of a regular light bulb
 
-<img src="./Photos/3D Model.png" alt= “” width="500px">
+<img src="./Photos/3DModel.png" alt= “” width="500px">
 
 I made the design into 3 pieces.
 
