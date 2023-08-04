@@ -1,4 +1,4 @@
-# Cube lamp
+# Circle lamp
 
 ## Hardware
 The LEDs used are just cheep WS2812B and they are connected to a Wemos D1 Mini
