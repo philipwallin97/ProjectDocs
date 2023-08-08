@@ -16,7 +16,7 @@ It's a angular website running on another computer locally.
 
 The code can be found [here](https://github.com/philipwallin97/Dashboard)
 
-It's a quite simple application that mostly displays currently playing song on Spotify, if someone is using my Plex server and date/time/weather.
+It's a quite simple application that mostly displays currently playing song on Spotify, if someone is using my Plex server, if my 3D printer is running it shows a live feed and some info and also date/time/weather. 
 
 <img src="./Photos/Default.JPEG" alt= “” width="500px">
 
@@ -37,3 +37,7 @@ Previous / Play / Pause / Next
 Volume presets
 
 Like song / Save song to a specified playlist / Remove from playlist
+
+<img src="./Photos/OctoPrint.JPEG" alt= “” width="500px">
+
+If my 3D printer is currently printing something it shows a live feed from OctoPrint and also some details about the print and printer
